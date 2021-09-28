@@ -1,0 +1,44 @@
+(module Castellated_PinHeader_01x04_P2.54mm_Vertical (layer F.Cu) (tedit 61533884)
+  (fp_text reference REF** (at 0 0.762) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Castellated_PinHeader_01x04_P2.54mm_Vertical (at 0 12.065) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole custom (at 0 2.54) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly (pts
+         (xy 0 0.7493) (xy 0 -0.7493) (xy 1.524 -0.7493) (xy 1.524 0.7493)) (width 0.0254))
+    ))
+  (pad 1 thru_hole circle (at 1.524 2.54) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask)
+    (zone_connect 0))
+  (pad 2 thru_hole custom (at 0 5.08) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly (pts
+         (xy 0 0.7493) (xy 0 -0.7493) (xy 1.524 -0.7493) (xy 1.524 0.7493)) (width 0.0254))
+    ))
+  (pad 2 thru_hole circle (at 1.524 5.08) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask)
+    (zone_connect 0))
+  (pad 3 thru_hole custom (at 0 7.62) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly (pts
+         (xy 0 0.7493) (xy 0 -0.7493) (xy 1.524 -0.7493) (xy 1.524 0.7493)) (width 0.0254))
+    ))
+  (pad 3 thru_hole circle (at 1.524 7.62) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask)
+    (zone_connect 0))
+  (pad 4 thru_hole custom (at 0 10.16) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly (pts
+         (xy 0 0.7493) (xy 0 -0.7493) (xy 1.524 -0.7493) (xy 1.524 0.7493)) (width 0.0254))
+    ))
+  (pad 4 thru_hole circle (at 1.524 10.16) (size 1.524 1.524) (drill 1) (layers *.Cu *.Mask)
+    (zone_connect 0))
+)
