@@ -1,0 +1,116 @@
+(footprint "CON_2.54mm_01x05_Castellated" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -5.08 unlocked) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.155)))
+    (tstamp 7d75d2a6-788f-473e-a9d8-77f8f8fdc971)
+  )
+  (fp_text value "CON_2.54mm_01x05_Castellated" (at 0 -3.83 unlocked) (layer "F.Fab")
+      (effects (font (size 0.5 0.5) (thickness 0.06)))
+    (tstamp 523306cb-f51c-484e-b303-61e11d3cdb5e)
+  )
+  (fp_text user "${REFERENCE}" (at 0 -3.08 unlocked) (layer "F.Fab")
+      (effects (font (size 0.5 0.5) (thickness 0.06)))
+    (tstamp ca94b692-be54-46a9-b142-ffc1d730ed34)
+  )
+  (pad "1" thru_hole oval (at 0 0 90) (size 1.75 3.5) (drill 1.05) (layers "*.Cu" "*.Mask") (tstamp 48096da9-9551-4d87-a438-bcf3dd0e66a9))
+  (pad "1" thru_hole custom (at 1.27 0) (size 1.75 1.75) (drill 1.05) (layers "*.Cu" "*.Mask")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0 0.7)
+          (xy -1 0.7)
+          (xy -1 -0.7)
+          (xy 0 -0.7)
+        )
+        (width 0.35) (fill yes))
+    ) (tstamp fc3c9816-7f5b-4987-9c65-932f0126b138))
+  (pad "2" thru_hole oval (at 0 2.54 90) (size 1.75 3.5) (drill 1.05) (layers "*.Cu" "*.Mask") (tstamp 6d5655ab-2a61-4e8d-807c-e8082ec40a26))
+  (pad "2" thru_hole custom (at 1.27 2.54) (size 1.75 1.75) (drill 1.05) (layers "*.Cu" "*.Mask")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0 0.7)
+          (xy -1 0.7)
+          (xy -1 -0.7)
+          (xy 0 -0.7)
+        )
+        (width 0.35) (fill yes))
+    ) (tstamp 1841a1c7-7d9c-42e3-8512-3914311b73eb))
+  (pad "3" thru_hole oval (at 0 5.08 90) (size 1.75 3.5) (drill 1.05) (layers "*.Cu" "*.Mask") (tstamp 72d478f5-0cce-4bbb-88cd-4a4d81efbc11))
+  (pad "3" thru_hole custom (at 1.27 5.08) (size 1.75 1.75) (drill 1.05) (layers "*.Cu" "*.Mask")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0 0.7)
+          (xy -1 0.7)
+          (xy -1 -0.7)
+          (xy 0 -0.7)
+        )
+        (width 0.35) (fill yes))
+    ) (tstamp f4692fe3-cfea-421f-87b8-1abb86448093))
+  (pad "4" thru_hole oval (at 0 7.62 90) (size 1.75 3.5) (drill 1.05) (layers "*.Cu" "*.Mask") (tstamp a3f39d45-c570-4f35-b94d-025d3fa86489))
+  (pad "4" thru_hole custom (at 1.27 7.62) (size 1.75 1.75) (drill 1.05) (layers "*.Cu" "*.Mask")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0 0.7)
+          (xy -1 0.7)
+          (xy -1 -0.7)
+          (xy 0 -0.7)
+        )
+        (width 0.35) (fill yes))
+    ) (tstamp bbd1a822-ac9a-49cb-90b7-525b8a468550))
+  (pad "5" thru_hole oval (at 0 10.16 90) (size 1.75 3.5) (drill 1.05) (layers "*.Cu" "*.Mask") (tstamp e2fb1ac9-bc45-438f-a4ef-d8a0e7704c53))
+  (pad "5" thru_hole custom (at 1.27 10.16) (size 1.75 1.75) (drill 1.05) (layers "*.Cu" "*.Mask")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor circle))
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0 0.7)
+          (xy -1 0.7)
+          (xy -1 -0.7)
+          (xy 0 -0.7)
+        )
+        (width 0.35) (fill yes))
+    ) (tstamp 97fb3081-84f4-483c-858d-5e4c9a819642))
+  (group "" (id 36776c86-64f1-4a43-9f9f-2509de5b9f92)
+    (members
+      1841a1c7-7d9c-42e3-8512-3914311b73eb
+      6d5655ab-2a61-4e8d-807c-e8082ec40a26
+    )
+  )
+  (group "" (id 53b49af4-3f5e-43a8-90bb-b330459ecab5)
+    (members
+      a3f39d45-c570-4f35-b94d-025d3fa86489
+      bbd1a822-ac9a-49cb-90b7-525b8a468550
+    )
+  )
+  (group "" (id 6e5bda84-48e6-4992-adf6-085061531fdb)
+    (members
+      72d478f5-0cce-4bbb-88cd-4a4d81efbc11
+      f4692fe3-cfea-421f-87b8-1abb86448093
+    )
+  )
+  (group "" (id b8c7a297-6f07-4b88-b304-bb1e99d1eadf)
+    (members
+      48096da9-9551-4d87-a438-bcf3dd0e66a9
+      fc3c9816-7f5b-4987-9c65-932f0126b138
+    )
+  )
+  (group "" (id cd69cbc1-55d0-4408-8fb7-51930b0df2dd)
+    (members
+      97fb3081-84f4-483c-858d-5e4c9a819642
+      e2fb1ac9-bc45-438f-a4ef-d8a0e7704c53
+    )
+  )
+)

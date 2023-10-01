@@ -1,0 +1,19 @@
+(footprint "100mil" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 0 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.155)))
+    (tstamp 8428fa79-246d-49d4-bdf1-eaa23e67720e)
+  )
+  (fp_text value "100mil" (at 0 0 unlocked) (layer "F.Fab") hide
+      (effects (font (size 0.5 0.5) (thickness 0.06)))
+    (tstamp 76ba6337-7a17-4281-926f-424b053465a1)
+  )
+  (fp_text user "${REFERENCE}" (at 0 0 unlocked) (layer "F.Fab") hide
+      (effects (font (size 0.5 0.5) (thickness 0.06)))
+    (tstamp 5385d1f8-8cd5-4616-bb2d-63a5c2888cf6)
+  )
+  (fp_circle (center 0 0) (end 2.2225 0)
+    (stroke (width 0.12) (type default)) (fill none) (layer "F.SilkS") (tstamp c47dccae-0f14-4162-9fe6-b5bf1d68b358))
+  (pad "" thru_hole circle (at 0 0) (size 3.81 3.81) (drill 2.54) (layers "*.Cu" "*.Mask") (tstamp 017d69fe-4d68-43f3-8d60-ba4a1da94649))
+)
