@@ -21,4 +21,9 @@
   (pad "2" thru_hole circle (at -1.27 0) (size 1.75 1.75) (drill 1.05) (layers "*.Cu" "*.Mask") (tstamp eb490c6c-6193-48a3-9da6-62ef88e123b8))
   (pad "3" thru_hole circle (at 1.27 0) (size 1.75 1.75) (drill 1.05) (layers "*.Cu" "*.Mask") (tstamp a27b08dc-2778-4f63-beab-fc15facbdf11))
   (pad "4" thru_hole circle (at 3.81 0) (size 1.75 1.75) (drill 1.05) (layers "*.Cu" "*.Mask") (tstamp 54d7576d-31cb-4760-bd61-b6316818cbb9))
+  (model ":DESTINATION_SPACE_MODELS:Breakout_Board/ssd1306_with_pins.STEP"
+    (offset (xyz 0 -12.2 2.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

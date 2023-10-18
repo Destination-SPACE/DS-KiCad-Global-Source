@@ -49,7 +49,7 @@
   (pad "12" thru_hole circle (at 7.62 -2.54) (size 1.75 1.75) (drill 1.05) (layers "*.Cu" "*.Mask") (tstamp bb6b64b1-b9a7-49d2-a313-0ce360d18ca6))
   (pad "13" thru_hole circle (at 7.62 -5.08) (size 1.75 1.75) (drill 1.05) (layers "*.Cu" "*.Mask") (tstamp 7b65a944-c192-4de8-804d-133d144f0152))
   (pad "14" thru_hole circle (at 7.62 -7.62) (size 1.75 1.75) (drill 1.05) (layers "*.Cu" "*.Mask") (tstamp c866ac4a-2e43-4284-abca-c7d0ed074ffe))
-  (model "E:/OneDrive/work/destinationSpace/development/hardware/.sharedResources/kicad/Destination_Space_Master/.models/QTPY-RP2040_Headers_2.stp"
+  (model ":DESTINATION_SPACE_MODELS:Breakout_Board/qtpyRP2040_with_pins.stp"
     (offset (xyz 4.5 0.25 4.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

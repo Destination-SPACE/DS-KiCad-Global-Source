@@ -133,4 +133,9 @@
     (thermal_bridge_angle 45) (tstamp 5327bb12-6056-49b3-acf8-4bdc943910c3))
   (pad "13" smd rect (at -8 -4.2) (size 2.5 0.35) (layers "B.Cu" "B.Paste" "B.Mask")
     (thermal_bridge_angle 45) (tstamp d2e45e80-37b5-43bc-be13-aee19467fb41))
+  (model ":DESTINATION_SPACE_MODELS:Display/ZJY114IPS.stp"
+    (offset (xyz -4 -4.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 -180 0))
+  )
 )

@@ -74,7 +74,7 @@
     (stroke (width 0.12) (type solid)) (layer "F.Fab") (tstamp 31127498-1361-45b1-b4cb-040b72393dd8))
   (pad "1" smd rect (at -1.85 0) (size 1.412 2.112) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bad468a9-7215-4f10-b6bd-c109c4b831c7))
   (pad "2" smd rect (at 1.85 0) (size 1.412 2.112) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 78ff638a-a537-4839-bb6a-019a131fc7c5))
-  (model "E:/OneDrive/work/destinationSpace/development/hardware/.sharedResources/kicad/Destination_Space_Master/.models/445I23D12M00000_CTS.step"
+  (model ":DESTINATION_SPACE_MODELS:Crystal/445I23D12M00000_CTS.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

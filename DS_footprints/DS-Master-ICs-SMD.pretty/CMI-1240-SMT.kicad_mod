@@ -94,9 +94,9 @@
     (stroke (width 0.12) (type solid)) (layer "F.Fab") (tstamp 4d63da2c-069d-4d5f-bd1e-7ae5a4500be5))
   (pad "1" smd rect (at -6.7 0) (size 4.285 3.715) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dae22ab6-928f-4287-b46f-3f4f12ede247))
   (pad "2" smd rect (at 6.7 0) (size 4.285 3.715) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f5564547-01d6-4032-9b76-38935bcb150b))
-  (model "E:/OneDrive/work/destinationSpace/development/hardware/.sharedResources/kicad/Destination_Space_Master/.models/CUI_DEVICES_CMI-1240-SMT.step"
+  (model ":DESTINATION_SPACE_MODELS:Buzzer/CUI_DEVICES_CMI-1240-SMT.step"
     (offset (xyz 0 0 7.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 -180 -90))
+    (rotate (xyz 90 0 90))
   )
 )

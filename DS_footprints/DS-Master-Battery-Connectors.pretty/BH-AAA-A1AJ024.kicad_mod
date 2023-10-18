@@ -35,7 +35,7 @@
   (pad "" np_thru_hole circle (at 0 11.75) (size 3.2 3.2) (drill 3.2) (layers "F&B.Cu" "*.Mask") (tstamp a3e2cdbf-6ada-461e-a289-7f2a010b4db2))
   (pad "1" thru_hole circle (at 23.409 11.75) (size 1.8 1.8) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp ed6d9ed1-18a2-4ec0-9fd7-f7af175c4927))
   (pad "2" thru_hole circle (at 23.409 -0.95) (size 1.8 1.8) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 56ba6093-c50e-479b-b2f0-9fbeb61421f6))
-  (model "D:/OneDrive/work/destinationSpace/development/hardware/.sharedResources/DS-KiCad-Global-Source/DS_models/2479--3DModel-STEP-630548.STEP"
+  (model ":DESTINATION_SPACE_MODELS:Battery/2479_short_leads.stp"
     (offset (xyz -8.5 -1.5 10.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
