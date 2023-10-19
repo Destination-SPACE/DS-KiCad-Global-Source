@@ -25,7 +25,7 @@
   (pad "2" smd rect (at -0.7 0.4) (size 0.5 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ac71930d-6e55-4362-b339-fc0e6ccb93c6))
   (pad "3" smd rect (at 0.7 0.4) (size 0.5 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 27170123-09d5-4b2e-b816-e4b96f54b7af))
   (pad "4" smd rect (at 0.7 -0.4) (size 0.5 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e84702a7-865e-46ba-a54e-ebfbbd8193b4))
-  (model "D:/OneDrive/work/destinationSpace/development/hardware/.sharedResources/DS-KiCad-Global-Source/DS_models/SHT41-AD1B-R3--3DModel-STEP-369182.STEP"
+  (model ":DESTINATION_SPACE_MODELS:Sensors_Environmental/SHT41-AD1B-R3--3DModel-STEP-369182.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

@@ -27,4 +27,9 @@
   (pad "14" thru_hole circle (at 0 33.02) (size 1.7 1.7) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 0a0c2ea1-f5a7-4c7b-b971-909644bdcec1))
   (pad "15" thru_hole circle (at 0 35.56) (size 1.7 1.7) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 3bec5e70-bea5-4784-908c-aaee9551265b))
   (pad "16" thru_hole circle (at 0 38.1) (size 1.7 1.7) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp 0d8dc821-005d-40d5-81bf-3320a9acba55))
+  (model ":DESTINATION_SPACE_MODELS:Connector_PinHeader_2.54mm/1x16ShortHeader.stp"
+    (offset (xyz -3.5 11.7 18))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
 )
