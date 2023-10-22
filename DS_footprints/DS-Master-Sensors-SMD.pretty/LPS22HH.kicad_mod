@@ -1,4 +1,4 @@
-(footprint "PQFN10P50_200X200X80L27X25N" (version 20221018) (generator pcbnew)
+(footprint "LPS22HH" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Pullback Quad Flat No-Lead (PQFN), 0.50 mm pitch; 10 pin, square, 2 pin X 3 pin, 2.00 mm L X 2.00 mm W X 0.80 mm H body")
   (attr smd)
@@ -154,7 +154,7 @@
   (pad "8" smd rect (at 0.5 -0.766 90) (size 0.397 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 064b9bed-97a6-4a03-a539-0f4129d96ba6))
   (pad "9" smd rect (at 0 -0.766 90) (size 0.397 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f13771b5-a941-4ded-939c-473406adf1b1))
   (pad "10" smd rect (at -0.5 -0.766 90) (size 0.397 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e83fbff0-d94e-4311-be57-69bb17470029))
-  (model ":DESTINATION_SPACE_MODELS:Package_QFN/HLGA-10L_2X2X0P73_STM.step"
+  (model ":DESTINATION_SPACE_MODELS:Sensors_Environmental/LPS22HH.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
