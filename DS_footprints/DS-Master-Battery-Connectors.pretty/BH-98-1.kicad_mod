@@ -43,8 +43,8 @@
     (stroke (width 0.15) (type default)) (fill none) (layer "F.Fab") (tstamp b28fe8a1-b746-4fcd-b7fd-0f0a03e8e08b))
   (pad "1" thru_hole circle (at 0 -7.75) (size 1.6 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 990a5581-4a1f-4821-a057-8ff45d7bb678))
   (pad "2" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 81446e2f-43be-4379-a350-62ed7f171ebc))
-  (model ":DESTINATION_SPACE_MODELS:Battery/bh-98-1.step"
-    (offset (xyz 0 0 1.25))
+  (model ":DESTINATION_SPACE_MODELS:Battery/bh-98-1.stp"
+    (offset (xyz 0 0 1))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
