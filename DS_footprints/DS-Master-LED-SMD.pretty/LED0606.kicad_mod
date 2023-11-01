@@ -68,8 +68,8 @@
     (stroke (width 0.12) (type solid)) (layer "F.Fab") (tstamp 3d160e27-49f4-40f0-ba9f-e119d2e8861e))
   (fp_line (start 0.8 0.4) (end 0.8 -0.4)
     (stroke (width 0.12) (type solid)) (layer "F.Fab") (tstamp 3d33b514-4817-43af-ae4a-bb860f438aa0))
-  (pad "A" smd roundrect (at 0.8 0) (size 0.712 0.912) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 16314c09-7f49-457b-a52d-bf5e953b4b17))
-  (pad "C" smd roundrect (at -0.8 0) (size 0.712 0.912) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 3adbf868-4031-40ff-975e-856db0e2ac68))
+  (pad "1" smd rect (at -0.8 0) (size 0.712 0.912) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3adbf868-4031-40ff-975e-856db0e2ac68))
+  (pad "2" smd rect (at 0.8 0) (size 0.712 0.912) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 16314c09-7f49-457b-a52d-bf5e953b4b17))
   (model ":DESTINATION_SPACE_MODELS:LED_SMD/LTST-C193TGKT-5A.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
